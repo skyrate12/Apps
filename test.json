@@ -1,7 +1,7 @@
 [{
 				"no": 1,
 				"image_id": "76", 
-				"image_upload": "https://cdn.pixabay.com/photo/2020/04/27/09/21/cat-5098930_960_720.jpg",
+				"image_upload": "4a/57/91/4a579106d7ef2dede5d0b1ca3edb6844.jpg",
 				"image_url": "",
 				"type": "upload",
 				"view_count": "623",
@@ -13,7 +13,7 @@
 			},{
 				"no": 2,
 				"image_id": "75", 
-				"image_upload": "https://cdn.pixabay.com/photo/2016/12/30/12/16/cat-1940487_960_720.jpg",
+				"image_upload": "84/13/d5/8413d57a642b258d15e7eb02533da200.jpg",
 				"image_url": "",
 				"type": "upload",
 				"view_count": "672",
@@ -22,40 +22,4 @@
 				"tags": "animal,cat",
 				"category_id": "16",
 				"category_name": "Animal"
-			},{
-				"no": 3,
-				"image_id": "74", 
-				"image_upload": "https://cdn.pixabay.com/photo/2019/12/17/16/06/cat-4701934_960_720.jpg",
-				"image_url": "",
-				"type": "upload",
-				"view_count": "768",
-				"download_count": "120",
-				"featured": "no",
-				"tags": "animal,deer",
-				"category_id": "16",
-				"category_name": "Animal"
-			},{
-				"no": 4,
-				"image_id": "73", 
-				"image_upload": "https://cdn.pixabay.com/photo/2017/08/07/12/27/cat-2603300_960_720.jpg",
-				"image_url": "",
-				"type": "upload",
-				"view_count": "850",
-				"download_count": "173",
-				"featured": "no",
-				"tags": "animal,owl",
-				"category_id": "16",
-				"category_name": "Animal"
-			},{
-				"no": 5,
-				"image_id": "72", 
-				"image_upload": "https://cdn.pixabay.com/photo/2020/03/23/08/45/cat-4959941_960_720.jpg",
-				"image_url": "",
-				"type": "upload",
-				"view_count": "969",
-				"download_count": "181",
-				"featured": "no",
-				"tags": "beach,blue",
-				"category_id": "14",
-				"category_name": "Beach"
 			}]
